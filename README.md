@@ -3,6 +3,8 @@
 ## 📊 Power BI Dashboard
 [**Click here to view the Power BI Dashboard**](HR_Analytics_powerbi.pbix)
 Download the PBIX file and open it using Power BI Desktop.
+## 📸 Dashboard Preview
+![HR Analytics Dashboard](Dashboard_Screenshots/HR_Analytics_Dashboard.png)
 ## 📌 Project Overview
 This project focuses on analyzing employee data to understand workforce distribution, employee satisfaction, and attrition trends. It uses data analysis and visualization techniques to identify patterns and provide meaningful insights into employee attrition.
 ## 🛠️ Tools & Technologies
@@ -16,8 +18,8 @@ This project focuses on analyzing employee data to understand workforce distribu
 - **Total Employees:** 1,470
 - **Employees Left:** 237
 - **Attrition Rate:** 16.12%
-- **Average Monthly Income**
-- **Average Employee Age**
+- **Average Monthly Income:** 6.50K
+- **Average Employee Age:** 36.92
 ## 🔍 Key Analysis
 - Department-wise Employee Attrition
 - Gender-wise Attrition
@@ -31,8 +33,8 @@ This project focuses on analyzing employee data to understand workforce distribu
 - The organization has 1,470 employees.
 - A total of 237 employees have left the organization.
 - The overall employee attrition rate is 16.12%.
-- Sales has the highest department-wise attrition rate at 20.63%.
-- Employees with low job satisfaction have a higher attrition rate than employees with very high satisfaction.
+- Sales has the highest department-wise attrition count among the three departments.
+- The dashboard compares attrition across job satisfaction, income groups, gender, age, and overtime.
 ## 📂 Project Structure
 ```text
 HR-Analytics-Employee-Attrition/
