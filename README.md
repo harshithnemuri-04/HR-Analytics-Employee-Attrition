@@ -1,56 +1,39 @@
 # HR Analytics & Employee Attrition Dashboard
 
-## Project Overview
-The HR Analytics & Employee Attrition Dashboard is a data analytics project designed to analyse employee demographics, workforce distribution, job satisfaction, salary patterns, and employee attrition. The project uses Python, SQL, and Power BI to transform HR data into meaningful insights that support data-driven HR decision-making.
-
-## Objectives
-- Analyse employee attrition patterns across different departments.
-- Identify factors influencing employee turnover.
-- Evaluate employee satisfaction and work-life balance.
-- Understand the relationship between income levels and attrition.
-- Build an interactive dashboard to support HR decision-making.
-
-## Tools & Technologies
-- **Python:** Data cleaning, manipulation, and exploratory data analysis.
-- **Pandas:** Data processing and analysis.
-- **Matplotlib:** Data visualization.
-- **SQL:** Data querying and analysis.
-- **Power BI:** Interactive dashboard development.
-- **Microsoft Excel:** Dataset handling and preparation.
-
-## Key Performance Indicators (KPIs)
-- Total Employees
-- Employees Left
-- Attrition Rate
-- Average Monthly Income
-- Average Employee Age
-
-## Key Analysis Performed
+## 📊 Power BI Dashboard
+[**Click here to view the Power BI Dashboard**](HR_Analytics_powerbi.pbix)
+Download the PBIX file and open it using Power BI Desktop.
+## 📌 Project Overview
+This project focuses on analyzing employee data to understand workforce distribution, employee satisfaction, and attrition trends. It uses data analysis and visualization techniques to identify patterns and provide meaningful insights into employee attrition.
+## 🛠️ Tools & Technologies
+- Python
+- SQL
+- Pandas
+- Matplotlib
+- Power BI
+- Microsoft Excel
+## 📈 Key Performance Indicators (KPIs)
+- **Total Employees:** 1,470
+- **Employees Left:** 237
+- **Attrition Rate:** 16.12%
+- **Average Monthly Income**
+- **Average Employee Age**
+## 🔍 Key Analysis
 - Department-wise Employee Attrition
-- Gender-wise Attrition Analysis
-- Age Group-wise Employee Analysis
-- Overtime vs Employee Attrition
-- Job Role-wise Attrition
-- Job Satisfaction vs Attrition
-- Monthly Income vs Attrition
-- Years at Company vs Attrition
-
-## Key Insights
-- Total employees analysed: **1,470**
-- Employees who left the organisation: **237**
-- Overall attrition rate: **16.12%**
-- Sales department recorded the highest attrition rate at **20.63%**.
-- Employees with lower job satisfaction showed a higher attrition rate.
-- Overtime and income levels were analysed to understand employee turnover patterns.
-
-## Dashboard Features
-- Interactive KPI cards.
-- Department, gender, and job role filters.
-- Attrition analysis using multiple visualizations.
-- Employee satisfaction and income analysis.
-- Interactive slicers for exploring workforce trends.
-
-## Project Structure
+- Gender-wise Attrition
+- Age Group Analysis
+- Job Role Analysis
+- Overtime vs Attrition
+- Job Satisfaction Analysis
+- Monthly Income Analysis
+- Years at Company Analysis
+## 💡 Key Insights
+- The organization has 1,470 employees.
+- A total of 237 employees have left the organization.
+- The overall employee attrition rate is 16.12%.
+- Sales has the highest department-wise attrition rate at 20.63%.
+- Employees with low job satisfaction have a higher attrition rate than employees with very high satisfaction.
+## 📂 Project Structure
 ```text
 HR-Analytics-Employee-Attrition/
 │
@@ -61,30 +44,23 @@ HR-Analytics-Employee-Attrition/
 │   └── HR_Analytics_Dashboard.png
 │
 ├── HR_Analytic.py
-├── HR_Analytics_Dashboard.pbix
+├── HR_Analytics_powerbi.pbix
 └── README.md
 ```
-
-## How to Run the Project
-
+## 🚀 How to Run the Project
 1. Clone or download this repository.
-2. Open the project folder in Visual Studio Code.
+2. Open the project folder in VS Code.
 3. Install the required Python libraries:
-   ```bash
-   pip install pandas matplotlib
-   ```
-4. Run the Python analysis script:
-   ```bash
-   python HR_Analytic.py
-   ```
-5. Open `HR_Analytics_Dashboard.pbix` using Microsoft Power BI Desktop.
-6. Explore the dashboard using the interactive slicers and visualizations.
-
-## Conclusion
-This project demonstrates the use of Python, SQL, and Power BI for HR data analysis and visualization. It helps identify employee attrition patterns, understand workforce trends, and generate actionable insights to support better employee retention strategies.
-
-## Author
+```bash
+pip install pandas matplotlib
+```
+4. Run the Python script:
+```bash
+python HR_Analytic.py
+```
+5. Open `HR_Analytics_powerbi.pbix` using Power BI Desktop.
+6. Explore the dashboard using the available slicers.
+## 👨‍💻 Author
 **Nemuri Harshith**
-
-- GitHub: https://github.com/harshithnemuri-04
-- LinkedIn: https://www.linkedin.com/in/harshith-nemuri-6492a43a9/
+- **GitHub:** [harshithnemuri-04](https://github.com/harshithnemuri-04)
+- **LinkedIn:** [Harshith Nemuri](https://www.linkedin.com/in/harshith-nemuri-6492a43a9/)
