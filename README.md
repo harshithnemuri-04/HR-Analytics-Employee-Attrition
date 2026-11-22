@@ -4,7 +4,8 @@
 [**Click here to view the Power BI Dashboard**](HR_Analytics_powerbi.pbix)
 Download the PBIX file and open it using Power BI Desktop.
 ## 📸 Dashboard Preview
-![HR Analytics Dashboard](Dashboard_Screenshots/HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](<img width="1117" height="712" alt="Screenshot " src="https://github.com/user-attachments/assets/3768094e-11ee-4385-a6f2-98a16abb2717" />
+)
 ## 📌 Project Overview
 This project focuses on analyzing employee data to understand workforce distribution, employee satisfaction, and attrition trends. It uses data analysis and visualization techniques to identify patterns and provide meaningful insights into employee attrition.
 ## 🛠️ Tools & Technologies
